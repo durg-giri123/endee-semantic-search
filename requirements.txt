@@ -1,5 +1,5 @@
-fastapi
+fastapi==0.110.0
 uvicorn
 requests
-sentence-transformers
-numpy
+sentence-transformers==2.6.1
+numpy==1.26.4
