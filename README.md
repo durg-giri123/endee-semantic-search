@@ -1,4 +1,5 @@
 # endee-semantic-search
+A simple semantic search system built using transformer embeddings and vector similarity retrieval.
 # Endee Semantic Search
 
 This project demonstrates a simple **semantic search system** built using transformer-based embeddings and vector similarity search.
